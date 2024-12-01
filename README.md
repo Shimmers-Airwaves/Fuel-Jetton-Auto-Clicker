@@ -1,2 +1,1 @@
-# Fuel-Jetton-Auto-Clicker
-Fuel Jetton-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
